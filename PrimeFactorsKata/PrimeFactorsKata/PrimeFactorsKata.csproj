@@ -7,7 +7,7 @@
     <ProjectGuid>{EA423E61-5F5B-4D46-B0DB-07F67C30A5EA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PrimerFactorsKata</RootNamespace>
+    <RootNamespace>PrimeFactorsKata</RootNamespace>
     <AssemblyName>PrimerFactorsKata</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

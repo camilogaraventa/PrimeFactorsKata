@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace PrimerFactorsKata
+namespace PrimeFactorsKata
 {
     public class PrimeFactors
     {
@@ -15,12 +12,12 @@ namespace PrimerFactorsKata
             List<Int32> primes = new List<Int32>();
             Int32 candidate = 2;
             while (number > 1)
-            {                
-                for (; number % candidate == 0;number /= candidate)
+            {
+                for (; number % candidate == 0; number /= candidate)
                 {
                     primes.Add(candidate);
                 }
-                candidate++;   
+                candidate++;
             }
             return primes;
         }

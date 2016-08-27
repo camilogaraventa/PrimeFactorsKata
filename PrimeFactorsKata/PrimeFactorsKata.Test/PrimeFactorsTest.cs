@@ -1,13 +1,9 @@
-﻿using System;
-using System.Text;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using System.Collections.Generic;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace PrimerFactorsKata.Test
+namespace PrimeFactorsKata.Test
 {
-    /// <summary>
-    /// Summary description for PrimeFactorsTest
-    /// </summary>
     [TestClass]
     public class PrimeFactorsTest
     {

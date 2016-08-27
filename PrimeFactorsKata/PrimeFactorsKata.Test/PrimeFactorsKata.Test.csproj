@@ -56,9 +56,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PrimerFactorsKata\PrimerFactorsKata.csproj">
+    <ProjectReference Include="..\PrimeFactorsKata\PrimeFactorsKata.csproj">
       <Project>{ea423e61-5f5b-4d46-b0db-07f67c30a5ea}</Project>
-      <Name>PrimerFactorsKata</Name>
+      <Name>PrimeFactorsKata</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
